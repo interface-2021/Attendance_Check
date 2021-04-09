@@ -9,11 +9,11 @@
 <br>
 
 ### 출석체크 현황
-|  | 4/2 |
-| --- | ---  |
-| alro923(Hyunjoo Lee) | :white_check_mark: |
-| jkey20(20) | :white_check_mark: |
-| reasssonJin(null) | :white_check_mark: |
-| ghk71(Chanyoung Yun) | :white_check_mark: |
-| cu29635(null) | :white_check_mark: |
-| Komputer-P(Park Ji Hwan) | :white_check_mark: |
+|  | 4/9 | 4/2 |
+| --- | --- | ---  |
+| alro923(Hyunjoo Lee) | :white_check_mark: | :white_check_mark: |
+| cu29635(null) | :white_check_mark: | :white_check_mark: |
+| reasssonJin(null) | :white_check_mark: | :white_check_mark: |
+| jkey20(20) | :x: | :white_check_mark: |
+| ghk71(Chanyoung Yun) | :x: | :white_check_mark: |
+| Komputer-P(Park Ji Hwan) | :x: | :white_check_mark: |
