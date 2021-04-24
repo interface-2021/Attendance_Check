@@ -9,11 +9,14 @@
 <br>
 
 ### 출석체크 현황
-|  | 4/9 | 4/2 |
-| --- | --- | ---  |
-| alro923(Hyunjoo Lee) | :white_check_mark: | :white_check_mark: |
-| cu29635(null) | :white_check_mark: | :white_check_mark: |
-| reasssonJin(null) | :white_check_mark: | :white_check_mark: |
-| jkey20(20) | :x: | :white_check_mark: |
-| ghk71(Chanyoung Yun) | :x: | :white_check_mark: |
-| Komputer-P(Park Ji Hwan) | :x: | :white_check_mark: |
+|  | 4/23 | 4/16 | 4/9 | 4/2 |
+| --- | --- | --- | --- | ---  |
+| moaikang(KEUNWOO KANG) | :white_check_mark: | :x: | :x: | :x: |
+| riyenas0925(Dongmin Kang) | :white_check_mark: | :x: | :x: | :x: |
+| SihunLee-1016(null) | :x: | :white_check_mark: | :x: | :x: |
+| alro923(Hyunjoo Lee) | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| jkey20(20) | :x: | :white_check_mark: | :x: | :white_check_mark: |
+| cu29635(null) | :x: | :x: | :white_check_mark: | :white_check_mark: |
+| reasssonJin(null) | :x: | :x: | :white_check_mark: | :white_check_mark: |
+| ghk71(Chanyoung Yun) | :x: | :x: | :x: | :white_check_mark: |
+| Komputer-P(Park Ji Hwan) | :x: | :x: | :x: | :white_check_mark: |
